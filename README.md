@@ -8,4 +8,4 @@ I build clean, intentional systems with a focus on web engineering, creative too
 - 2D/3D games and interactive experiments   
 
 ### Skills
-JavaScript · Python · C · Java · HTML · CSS
+HTML · CSS · JavaScript · Python · C · Java 
